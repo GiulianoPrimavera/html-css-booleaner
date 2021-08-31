@@ -17,6 +17,7 @@ header{
     color: gray;
 }
 
+/* figure e figcaption ridimensionate */
 .tim-1{
     width: 50%;
 }
@@ -24,12 +25,14 @@ header{
     width: 43%;
 }
 
+
 .testo_normale{
     font-size: 25px;
 }
 
+
+/* due sezioni del footer */
 .fondo_pagina{
-    color: white;
     width: 310px;
     height: 210px;
 }
@@ -38,4 +41,24 @@ header{
 }
 .fondo_pagina2{
     background-image: url(../img/graph.jpg);
+}
+
+.testo_bianco{
+    color: white;
+}
+/* fine footer */
+
+
+/* tabella */
+thead{
+    background-color: rgb(0, 110, 255);
+}
+.sfondo_azzurro{
+    background-color: rgb(0, 195, 255);
+}
+/* fine tabella */
+
+
+.evidenziato{
+    background-color: darkorange;
 }
