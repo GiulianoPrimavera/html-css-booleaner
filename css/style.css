@@ -1,0 +1,25 @@
+header{
+    background-image: url(../img/pattern.png);
+    background-color: rgb(0, 183, 255);
+    height: 150px;
+}
+
+.logo_booleaner{
+    height: 100px;
+}
+
+.titolo{
+    font-size: 80px;
+}
+.testo_grigio{
+    font-size: 25px;
+    font-weight: bold;
+    color: gray;
+}
+
+.tim-1{
+    width: 50%;
+}
+.tim-2{
+    width: 43%;
+}
