@@ -23,3 +23,19 @@ header{
 .tim-2{
     width: 43%;
 }
+
+.testo_normale{
+    font-size: 25px;
+}
+
+.fondo_pagina{
+    color: white;
+    width: 310px;
+    height: 210px;
+}
+.fondo_pagina1{
+    background-image: url(../img/monitor.jpg);
+}
+.fondo_pagina2{
+    background-image: url(../img/graph.jpg);
+}
